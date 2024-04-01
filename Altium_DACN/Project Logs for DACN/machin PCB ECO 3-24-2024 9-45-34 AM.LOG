@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=NetP4_1 Pin=R1-1
+Removed Pin From Net: NetName=NetP4_1 Pin=R2-1
+Removed Pin From Net: NetName=NetP4_1 Pin=R3-1
+Removed Pin From Net: NetName=NetP4_2 Pin=SW1-2
+Removed Pin From Net: NetName=NetP4_2 Pin=SW2-2
+Removed Pin From Net: NetName=NetP4_2 Pin=SW3-2
+Change Component Comment : Designator=U1 Old Comment=STM32F103C8T6  New Comment=STM32F103C8T6
+Added Pin To Net: NetName=NetP11_1 Pin=P12-1
+Added Pin To Net: NetName=NetLED1_2 Pin=P12-2
+Added Pin To Net: NetName=NetP11_1 Pin=P13-1
+Added Pin To Net: NetName=NetLED1_2 Pin=P13-2
+Added Pin To Net: NetName=NetP11_1 Pin=R1-1
+Added Pin To Net: NetName=NetP11_1 Pin=R2-1
+Added Pin To Net: NetName=NetP11_1 Pin=R3-1
+Added Pin To Net: NetName=NetLED1_2 Pin=SW1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=SW2-2
+Added Pin To Net: NetName=NetLED1_2 Pin=SW3-2
+Added Room: Name=nguyenly

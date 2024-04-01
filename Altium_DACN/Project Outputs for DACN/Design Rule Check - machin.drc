@@ -1,0 +1,100 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\vunvv\Desktop\Altium_DACN\machin.PcbDoc
+Date     : 3/24/2024
+Time     : 2:00:33 PM
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silkscreen Over Component Pads (Clearance=10mil) (All),(All)
+   Violation between Pad SW3-2(2874mil,2637mil)  Multi-Layer and 
+                     Arc (2773.172mil,2637mil)  Top Overlay
+   Violation between Pad SW3-1(2674mil,2637mil)  Multi-Layer and 
+                     Arc (2773.172mil,2637mil)  Top Overlay
+   Violation between Pad SW2-2(2874mil,2237mil)  Multi-Layer and 
+                     Arc (2773.172mil,2237mil)  Top Overlay
+   Violation between Pad SW2-1(2674mil,2237mil)  Multi-Layer and 
+                     Arc (2773.172mil,2237mil)  Top Overlay
+   Violation between Pad SW1-2(2854mil,1777mil)  Multi-Layer and 
+                     Arc (2753.172mil,1777mil)  Top Overlay
+   Violation between Pad SW1-1(2654mil,1777mil)  Multi-Layer and 
+                     Arc (2753.172mil,1777mil)  Top Overlay
+   Violation between Track (4708mil,3960mil)(4742mil,3960mil)  Top Overlay and 
+                     Pad R5-2(4790mil,3960mil)  Multi-Layer
+   Violation between Track (4488mil,3960mil)(4523mil,3960mil)  Top Overlay and 
+                     Pad R5-1(4440mil,3960mil)  Multi-Layer
+   Violation between Track (3840mil,2417mil)(3840mil,2452mil)  Top Overlay and 
+                     Pad R4-1(3840mil,2500mil)  Multi-Layer
+   Violation between Track (3840mil,2198mil)(3840mil,2232mil)  Top Overlay and 
+                     Pad R4-2(3840mil,2150mil)  Multi-Layer
+   Violation between Track (2162mil,2637mil)(2197mil,2637mil)  Top Overlay and 
+                     Pad R3-1(2114mil,2637mil)  Multi-Layer
+   Violation between Track (2382mil,2637mil)(2416mil,2637mil)  Top Overlay and 
+                     Pad R3-2(2464mil,2637mil)  Multi-Layer
+   Violation between Track (2649mil,2512mil)(2649mil,2762mil)  Top Overlay and 
+                     Pad SW3-1(2674mil,2637mil)  Multi-Layer
+   Violation between Track (2899mil,2512mil)(2899mil,2762mil)  Top Overlay and 
+                     Pad SW3-2(2874mil,2637mil)  Multi-Layer
+   Violation between Track (2162mil,2237mil)(2197mil,2237mil)  Top Overlay and 
+                     Pad R2-1(2114mil,2237mil)  Multi-Layer
+   Violation between Track (2382mil,2237mil)(2416mil,2237mil)  Top Overlay and 
+                     Pad R2-2(2464mil,2237mil)  Multi-Layer
+   Violation between Track (2649mil,2112mil)(2649mil,2362mil)  Top Overlay and 
+                     Pad SW2-1(2674mil,2237mil)  Multi-Layer
+   Violation between Track (2899mil,2112mil)(2899mil,2362mil)  Top Overlay and 
+                     Pad SW2-2(2874mil,2237mil)  Multi-Layer
+   Violation between Track (2162mil,1777mil)(2197mil,1777mil)  Top Overlay and 
+                     Pad R1-1(2114mil,1777mil)  Multi-Layer
+   Violation between Track (2382mil,1777mil)(2416mil,1777mil)  Top Overlay and 
+                     Pad R1-2(2464mil,1777mil)  Multi-Layer
+   Violation between Track (2629mil,1652mil)(2629mil,1902mil)  Top Overlay and 
+                     Pad SW1-1(2654mil,1777mil)  Multi-Layer
+   Violation between Track (2879mil,1652mil)(2879mil,1902mil)  Top Overlay and 
+                     Pad SW1-2(2854mil,1777mil)  Multi-Layer
+   Violation between Track (5730mil,1582.52mil)(5730mil,1700.63mil)  Top Overlay and 
+                     Pad VR1-1(5760mil,1740mil)  Multi-Layer
+   Violation between Track (6010mil,1624.5mil)(6010mil,1662mil)  Top Overlay and 
+                     Pad VR1-2(5960mil,1640mil)  Multi-Layer
+Rule Violations :24
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+   Violation between Hole Size Constraint: Pad LCD1-Hole 0(6309mil,4288mil)  Multi-Layer
+   Violation between Hole Size Constraint: Pad LCD1-Hole 0(7532mil,4287mil)  Multi-Layer
+   Violation between Hole Size Constraint: Pad LCD1-Hole 0(7532mil,1334mil)  Multi-Layer
+   Violation between Hole Size Constraint: Pad LCD1-Hole 0(6313mil,1334mil)  Multi-Layer
+Rule Violations :4
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=47.244mil) (Max=47.244mil) (Preferred=47.244mil) (All)
+   Violation between Width Constraint: Track (1181.102mil,1181.102mil)(6692.914mil,1181.102mil)  Top Layer
+   Violation between Width Constraint: Track (6692.914mil,1181.102mil)(6692.914mil,4724.41mil)  Top Layer
+   Violation between Width Constraint: Track (1181.102mil,1181.102mil)(1181.102mil,4724.41mil)  Top Layer
+   Violation between Width Constraint: Track (1181.102mil,4724.41mil)(6692.914mil,4724.41mil)  Top Layer
+Rule Violations :4
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=31.496mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+
+Violations Detected : 32
+Time Elapsed        : 00:00:01

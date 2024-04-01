@@ -1,0 +1,13 @@
+Added Component: Designator=LED2(LED-5)
+Added Component: Designator=R5(R1/4W)
+Added Pin To Net: NetName=NetP4_2 Pin=LED2-2
+Change Net Name : Old Net Name=NetP4_2 New Net Name=NetLED2_2
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=NetLED2_1 Pin=R5-2
+Added Net: Name=NetLED2_1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=U1-10
+Added Net: Name=NetR5_1
+Added Member To Class: ClassName=nguyenly Member=Component LED2 LED_Nguon
+Added Member To Class: ClassName=nguyenly Member=Component R5 1k
+Added Room: Name=nguyenly
